@@ -1,0 +1,6 @@
+山積み[yamazumi] (n) huge mound; heap; pile
+
+Yamazumi is a Flask powered bookmarking service. Parses bookmarks exported from Firefox for bookmarks and holds them in a DB along with any tags or bookmarks can be manually added.
+
+Thoughts:
+- Save thumbnails of the sites?
